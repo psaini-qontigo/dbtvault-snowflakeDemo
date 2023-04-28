@@ -4,6 +4,12 @@ target/
 logs
 
 .idea/
+.vscode/
+**/.DS_Store
 
 dbt_modules
 dbt_packages
+
+.venv/
+
+.env
